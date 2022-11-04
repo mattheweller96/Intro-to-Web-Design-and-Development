@@ -1,0 +1,22 @@
+button {
+  background-color: #000000;
+  font-size: 20px;
+  color: #f2c33c;
+  padding: 10px;
+  border-radius: 10px;
+  border: 3px solid #808080;
+}
+button:hover {
+  background-color: #7cc272;
+  font-size: 25px;
+  color: #000000
+}
+.hidden {
+  font-family: Arial, sans-serif;
+  background-color: #509f;
+  color: #7cc272;
+  width: 400px;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
